@@ -1,0 +1,32 @@
+{
+  "name": "webex-enum-types",
+  "version": "0.0.1",
+  "description": "A JSON mappings of enumerated types for Cisco's WebEx XML API",
+  "license": "MIT",
+  "repository": "cisco-ie/webex-enum-types",
+  "author": {
+    "name": "brh55",
+    "email": "brhim@cisco.com",
+    "url": "github.com/cisco-ie/webex-enum-types"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js",
+    "types.json"
+  ],
+  "keywords": [
+    "webex",
+    "webex enumerated types",
+    "cisco webex"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "xo": "^0.17.0"
+  }
+}

@@ -21,7 +21,7 @@ WEBEX_ENUMS['role']; //=> ['ATTENDEE', 'PRESENTER', 'HOST', 'LIMITED'];
 WEBEX_ENUMS.list() // => [ 'addressType', 'entryExitTone', ... etc]
 ```
 
-Download the [JSON file](/tree/master/types.json).
+Download the [JSON file](/types.json).
 
 ## API
 
